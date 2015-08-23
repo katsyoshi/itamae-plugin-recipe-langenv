@@ -20,6 +20,8 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency "itamae", "~> 1.2"
   spec.add_dependency "itamae-plugin-recipe-rbenv"
+  spec.add_dependency "itamae-plugin-recipe-plenv"
+  spec.add_dependency "itamae-plugin-recipe-pyenv"
 
   spec.add_development_dependency "bundler", "~> 1.10"
   spec.add_development_dependency "rake", "~> 10.0"
