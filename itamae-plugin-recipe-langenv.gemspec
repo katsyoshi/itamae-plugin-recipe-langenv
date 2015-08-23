@@ -11,6 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Itamae plugin recipe langenv: rbenv, plenv, and pyenv}
   spec.description   = %q{Itamae plugin recipe langenv: rbenv, plenv, and pyenv}
+  spec.license       = "MIT"
   spec.homepage      = "https://github.com/katsyoshi/itamae-plugin-recipe-langenv"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
