@@ -9,8 +9,6 @@ TODO: Delete this and the text above, and describe your gem
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'itamae-plugin-recipe-plenv', github: 'katsyoshi/itamae-plugin-recipe-plenv'
-gem 'itamae-plugin-recipe-pyenv', github: 'katsyoshi/itamae-plugin-recipe-pyenv'
 gem 'itamae-plugin-recipe-langenv', github: 'katsyoshi/itamae-plugin-recipe-langenv'
 ```
 
